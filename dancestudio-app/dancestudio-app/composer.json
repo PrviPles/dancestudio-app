@@ -1,0 +1,8 @@
+{
+    "name": "dsa/dancestudio-app",
+    "description": "A simple plugin for managing a dance studio.",
+    "type": "wordpress-plugin",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}

@@ -1,0 +1,55 @@
+/* Styles for the Manager Dashboard Students Tab */
+
+.dsa-front-end-table th.sortable a { 
+    text-decoration: none; 
+    color: inherit; 
+    display: inline-flex; 
+    align-items: center; 
+    gap: 5px; 
+}
+
+.dsa-front-end-table th.sortable a .dashicons { 
+    font-size: 16px; 
+    height: 16px; 
+    width: 16px; 
+}
+
+.dsa-front-end-table th.sorted a { 
+    font-weight: bold; 
+    color: #111; 
+}
+
+.dsa-front-end-table th, 
+.dsa-front-end-table td { 
+    padding: 15px; 
+}
+
+/* Ensure jQuery UI Dialogs appear above other elements */
+.ui-dialog { 
+    z-index: 10000 !important; 
+}
+
+/* Styles for the filter form */
+.dsa-filters {
+    padding: 20px;
+    background-color: #f6f7f7;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.dsa-filters label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.dsa-filters input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
