@@ -1,0 +1,209 @@
+# Copyright (C) 2025 Filip Debelec
+# This file is distributed under the same license as the DanceStudio App plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DanceStudio App 1.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dancestudio-app\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-06-11 01:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: dancestudio-app\n"
+
+#: includes/dsa-post-types.php:20
+msgid "Group Classes"
+msgstr ""
+
+#: includes/dsa-post-types.php:21
+msgid "Group Class"
+msgstr ""
+
+#: includes/dsa-post-types.php:23
+msgid "All Group Classes"
+msgstr ""
+
+#: includes/dsa-post-types.php:24
+msgid "Add New Group Class"
+msgstr ""
+
+#: includes/dsa-post-types.php:25
+msgid "Add New Class"
+msgstr ""
+
+#: includes/dsa-post-types.php:26
+msgid "New Group Class"
+msgstr ""
+
+#: includes/dsa-post-types.php:27
+msgid "Edit Group Class"
+msgstr ""
+
+#: includes/dsa-post-types.php:48
+msgid "Private Lessons"
+msgstr ""
+
+#: includes/dsa-post-types.php:49
+msgid "Private Lesson"
+msgstr ""
+
+#: includes/dsa-post-types.php:51
+msgid "All Private Lessons"
+msgstr ""
+
+#: includes/dsa-post-types.php:52
+msgid "Add New Private Lesson"
+msgstr ""
+
+#: includes/dsa-post-types.php:53
+msgid "Add New Lesson"
+msgstr ""
+
+#: includes/dsa-post-types.php:56
+msgid "Edit Private Lesson"
+msgstr ""
+
+#: includes/dsa-post-types.php:77
+msgid "Dance Groups"
+msgstr ""
+
+#: includes/dsa-post-types.php:78
+msgid "Dance Group"
+msgstr ""
+
+#: includes/dsa-post-types.php:80
+msgid "All Dance Groups"
+msgstr ""
+
+#: includes/dsa-post-types.php:81
+msgid "Add New Dance Group"
+msgstr ""
+
+#: includes/dsa-post-types.php:82
+msgid "Add New Group"
+msgstr ""
+
+#: includes/dsa-post-types.php:85
+msgid "Edit Dance Group"
+msgstr ""
+
+#: dancestudio-app.php:44 admin/views/view-main-dashboard.php:124
+msgid "Student"
+msgstr ""
+
+#: dancestudio-app.php:45
+msgid "Guardian"
+msgstr ""
+
+#: dancestudio-app.php:46 admin/views/view-main-dashboard.php:213
+msgid "Teacher"
+msgstr ""
+
+#: dancestudio-app.php:47
+msgid "Studio Manager"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:16 admin/views/view-main-dashboard.php:28
+msgid "Dashboard"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:17
+msgid "All Students"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:18
+msgid "All Classes"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:19 admin/views/view-attendance.php:17
+msgid "Attendance"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:21 admin/views/view-main-dashboard.php:131
+msgid "Couples"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:22
+msgid "Staff Management"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:22 admin/views/view-main-dashboard.php:132
+msgid "Staff"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:23 admin/views/view-main-dashboard.php:133
+msgid "Calendar"
+msgstr ""
+
+#: admin/dsa-admin-menus.php:24 admin/views/view-main-dashboard.php:134
+msgid "Settings"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:26
+msgid "Couples Management"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:30
+msgid "Calendar View"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:31
+msgid "Plugin Settings"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:32
+msgid "Dashboard & Overview"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:36
+msgid "Welcome! Manage students, classes, and groups from the dedicated menu items on the left. Use the tabs below for other sections."
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:38
+msgid "Total Students"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:39
+msgid "Active Couples"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:40
+msgid "Total Staff"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:46
+msgid "Create/Update Couple"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:47
+msgid "Pair two students or update existing pairings."
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:49
+msgid "Student 1:"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:50 admin/views/view-main-dashboard.php:54
+msgid "Select"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:53
+msgid "Student 2:"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:56
+msgid "Pair/Update Students"
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:73
+msgid "This is your main dashboard. Manage students, classes, and groups from the dedicated menu items on the left. Use the tabs above for other sections."
+msgstr ""
+
+#: admin/views/view-main-dashboard.php:75 admin/views/tabs/tab-couples.php:20
+msgid "Paired Couples"
+msgstr ""
+
+#. ... plus all other strings from all files

@@ -1,0 +1,72 @@
+/*
+ * DSA Admin Responsive Styles
+ * Transforms WP_List_Table and custom tables into a card view on mobile.
+ */
+
+@media screen and (max-width: 782px) {
+    /* Target all main tables in our plugin */
+    .wp-list-table {
+        border: 0;
+    }
+
+    .wp-list-table thead {
+        display: none; /* Hide table headers */
+    }
+
+    .wp-list-table tr {
+        display: block; /* Each row becomes a block-level card */
+        margin-bottom: 20px;
+        border: 1px solid #ccd0d4;
+        background: #fff;
+    }
+
+    .wp-list-table td {
+        display: flex; /* Use flexbox for label/value alignment */
+        justify-content: space-between;
+        align-items: center;
+        text-align: right;
+        padding: 10px 15px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+    .wp-list-table td:last-child {
+        border-bottom: 0;
+    }
+
+    /* * The magic part: Use the 'data-colname' attribute that WordPress 
+     * automatically adds to create the label for each piece of data.
+     */
+    .wp-list-table td[data-colname]::before {
+        content: attr(data-colname);
+        font-weight: 600;
+        text-align: left;
+        margin-right: 15px;
+    }
+
+    /* Handle specific columns that need special styling */
+    .wp-list-table td.column-primary {
+        font-size: 1.2em; /* Make the main item (e.g., name) larger */
+    }
+
+    .wp-list-table .row-actions {
+        /* Make row actions always visible on mobile */
+        display: block;
+        padding: 5px 0 0;
+        font-size: 13px;
+    }
+
+    /* Hide bulk action checkboxes on mobile for a cleaner look */
+    .wp-list-table .check-column {
+        display: none;
+    }
+
+    /* Adjust filter/search elements to stack nicely */
+    .tablenav .actions {
+        padding: 10px 0;
+        width: 100%;
+    }
+    .search-box {
+        float: none;
+        margin: 10px 0;
+    }
+}

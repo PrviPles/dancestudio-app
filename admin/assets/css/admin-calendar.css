@@ -1,0 +1,55 @@
+/*
+ * Custom styles for the Admin Calendar and its modals.
+ */
+
+/* Make the pop-up dialogs take up more screen width on mobile for better readability */
+@media (max-width: 600px) {
+    .ui-dialog {
+        width: 92% !important;
+        left: 4% !important;
+        top: 50px !important;
+    }
+
+    .ui-dialog .ui-dialog-content {
+        font-size: 14px;
+    }
+
+    .ui-dialog h4 {
+        font-size: 1.2em;
+    }
+    
+    .ui-dialog h5 {
+        font-size: 1.1em;
+    }
+}
+
+/* Styles for the lesson history table inside the pop-up */
+.dsa-couple-history-table {
+    width: 100%;
+    text-align: left;
+    font-size: 0.9em;
+    border-collapse: collapse;
+}
+
+.dsa-couple-history-table th,
+.dsa-couple-history-table td {
+    padding: 8px 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.dsa-couple-history-table th:first-child,
+.dsa-couple-history-table td:first-child {
+    padding-left: 0;
+}
+
+.dsa-couple-history-table th:last-child,
+.dsa-couple-history-table td:last-child {
+    text-align: right;
+    padding-right: 0;
+}
+
+.dsa-couple-history-table .button-small {
+    padding: 2px 8px !important;
+    height: auto !important;
+    line-height: 1.5 !important;
+}

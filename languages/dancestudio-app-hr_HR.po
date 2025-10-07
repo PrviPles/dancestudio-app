@@ -1,0 +1,669 @@
+# Copyright (C) 2025 Filip Debelec
+# This file is distributed under the same license as the DanceStudio App package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DanceStudio App 1.7.6\n"
+"Report-Msgid-Bugs-To: https://prviples.hr\n"
+"POT-Creation-Date: 2025-06-06 22:32+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.6\n"
+
+#: ../admin/dsa-admin-page.php:28 ../admin/dsa-admin-page.php:57
+msgid "DanceStudio App Settings"
+msgstr "DanceStudio App Postavke"
+
+#: ../admin/dsa-admin-page.php:29 ../admin/dsa-admin-page.php:66
+msgid "DanceStudio App"
+msgstr "DanceStudio App"
+
+#: ../admin/dsa-admin-page.php:36 ../admin/dsa-admin-page.php:200
+msgid "DSA Dashboard"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:37 ../admin/dsa-admin-page.php:258
+msgid "Dashboard"
+msgstr "Nadzorna ploča"
+
+#: ../admin/dsa-admin-page.php:43 ../admin/dsa-admin-page.php:201
+#: ../admin/dsa-admin-page.php:269
+msgid "All Students"
+msgstr "Svi polaznici"
+
+#: ../admin/dsa-admin-page.php:44 ../admin/dsa-admin-page.php:278
+msgid "Couples Management"
+msgstr "Upravljanje parovima"
+
+#: ../admin/dsa-admin-page.php:45 ../admin/dsa-admin-page.php:259
+msgid "Couples"
+msgstr "Parovi"
+
+#: ../admin/dsa-admin-page.php:50 ../admin/dsa-admin-page.php:280
+msgid "Teachers Management"
+msgstr "Upravljanje učiteljima"
+
+#: ../admin/dsa-admin-page.php:51 ../admin/dsa-admin-page.php:260
+msgid "Teachers"
+msgstr "Učitelji"
+
+#: ../admin/dsa-admin-page.php:56 ../admin/dsa-admin-page.php:282
+msgid "Log Group Practice"
+msgstr "Zapiši grupni trening"
+
+#: ../admin/dsa-admin-page.php:62 ../admin/dsa-admin-page.php:284
+msgid "Log Private Lesson"
+msgstr "Zapiši individualni sat"
+
+#: ../admin/dsa-admin-page.php:68 ../admin/dsa-admin-page.php:286
+msgid "Calendar View"
+msgstr "Pregled kalendara"
+
+#: ../admin/dsa-admin-page.php:69 ../admin/dsa-admin-page.php:387
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: ../admin/dsa-admin-page.php:74 ../admin/dsa-admin-page.php:388
+msgid "Plugin Settings"
+msgstr "Postavke dodatka"
+
+#: ../admin/dsa-admin-page.php:75 ../admin/dsa-admin-page.php:262
+#: ../admin/dsa-admin-page.php:291 ../admin/dsa-admin-page.php:388
+msgid "Settings"
+msgstr "Postavke"
+
+#: ../admin/dsa-admin-page.php:109 ../admin/dsa-admin-page.php:269
+msgid "Add New Student"
+msgstr "Dodaj novog učenika"
+
+#: ../admin/dsa-admin-page.php:111
+msgid ""
+"Note: Birthday, Mobile Phone, and Address need to be populated in user "
+"profiles. WooCommerce fields are prioritized."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:116 ../admin/dsa-admin-page.php:418
+#: ../admin/dsa-admin-page.php:483
+msgid "Username"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:117 ../admin/dsa-admin-page.php:419
+#: ../admin/dsa-admin-page.php:484
+msgid "Name"
+msgstr "Ime"
+
+#: ../admin/dsa-admin-page.php:118 ../admin/dsa-admin-page.php:420
+#: ../admin/dsa-admin-page.php:485
+msgid "Surname"
+msgstr "Prezime"
+
+#: ../admin/dsa-admin-page.php:119 ../admin/dsa-admin-page.php:421
+#: ../admin/dsa-admin-page.php:486 ../admin/dsa-admin-page.php:406
+#: ../dancestudio-app.php:129
+msgid "Birthday"
+msgstr "Rođendan"
+
+#: ../admin/dsa-admin-page.php:120 ../admin/dsa-admin-page.php:422
+#: ../admin/dsa-admin-page.php:487
+msgid "Age"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:121 ../admin/dsa-admin-page.php:423
+#: ../admin/dsa-admin-page.php:488
+msgid "Mobile Phone"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:122 ../admin/dsa-admin-page.php:424
+#: ../admin/dsa-admin-page.php:489
+msgid "Email"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:123 ../admin/dsa-admin-page.php:425
+msgid "Paired With"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:124 ../admin/dsa-admin-page.php:426
+#: ../admin/dsa-admin-page.php:490
+msgid "Address"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:125 ../admin/dsa-admin-page.php:427
+#: ../admin/dsa-admin-page.php:491
+msgid "Actions"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:129 ../admin/dsa-admin-page.php:143
+#: ../admin/dsa-admin-page.php:498 ../admin/dsa-admin-page.php:571
+msgid "Not Paired"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:130 ../admin/dsa-admin-page.php:143
+#: ../admin/dsa-admin-page.php:571
+msgid "Error"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:133 ../admin/dsa-admin-page.php:143
+#: ../admin/dsa-admin-page.php:500 ../admin/dsa-admin-page.php:573
+msgid "N/A"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:143 ../admin/dsa-admin-page.php:509
+#: ../admin/dsa-admin-page.php:582
+msgid "Edit"
+msgstr "Izmjeni"
+
+#: ../admin/dsa-admin-page.php:143
+msgid "Delete user %s?"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:143 ../admin/dsa-admin-page.php:509
+#: ../admin/dsa-admin-page.php:582
+msgid "Delete"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:145
+msgid "No students found."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:159
+msgid ""
+"These users are not currently paired together or the pairing is inconsistent."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:159 ../admin/dsa-admin-page.php:166
+msgid "Back to Couples List"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:163 ../admin/dsa-admin-page.php:231
+msgid "Couple Details: %s & %s"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:169
+msgid "Connection & Shared Wedding Info"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:171 ../admin/dsa-admin-page.php:239
+msgid "Paired Since:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:172
+msgid "Original automatic connection: %s. You can override the date part here."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:175
+msgid "Couple's Wedding Date:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:178
+msgid "Couple's First Dance Song Title:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:181
+msgid "Wedding Song File URL (MP3):"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:183
+msgid "Paste the direct URL to an MP3 file."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:186
+msgid "Play/Download Song:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:188
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:189
+msgid "Download Song"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:191
+msgid ""
+"The provided song URL does not appear to be a direct MP3 link. Playback may "
+"not work."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:191
+msgid "Open Song Link"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:192
+msgid "Download File (if direct link)"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:197 ../admin/dsa-admin-page.php:243
+msgid "Private Lessons Log for this Couple"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:199
+msgid ""
+"Functionality to list private lessons for this couple will be added soon."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:204 ../admin/dsa-admin-page.php:252
+msgid "Update Couple Details"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:210 ../admin/dsa-admin-page.php:220
+msgid "yrs"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:211 ../admin/dsa-admin-page.php:221
+#: ../admin/dsa-admin-page.php:491
+msgid "Username:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:212 ../admin/dsa-admin-page.php:222
+#: ../admin/dsa-admin-page.php:492 ../public/dsa-shortcodes.php:51
+#: ../admin/dsa-admin-page.php:241
+msgid "Email:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:214 ../admin/dsa-admin-page.php:224
+#: ../admin/dsa-admin-page.php:494
+msgid "Phone:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:218 ../admin/dsa-admin-page.php:228
+#: ../admin/dsa-admin-page.php:497 ../public/dsa-shortcodes.php:57
+msgid "Address:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:271 ../admin/dsa-admin-page.php:366
+msgid "Create or Update a Couple"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:272 ../admin/dsa-admin-page.php:367
+msgid ""
+"Select two students to pair them. If a selected student is already paired, "
+"their existing pairing will be updated. To unpair, use the 'Couples' tab."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:275 ../admin/dsa-admin-page.php:279
+msgid "Student 1:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:276 ../admin/dsa-admin-page.php:280
+msgid "Select Student"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:279
+msgid "Student 2:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:283
+msgid "Pair Students / Update Pair"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:287 ../admin/dsa-admin-page.php:386
+msgid "Log Practice"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:288 ../admin/dsa-admin-page.php:387
+msgid "Private Lessons"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:297
+msgid ""
+"Note: For 'Mobile Phone' and 'Address' to display, this plugin prioritizes "
+"WooCommerce fields (<code>billing_phone</code>, <code>billing_address_1</"
+"code>, <code>billing_city</code>). If not found, it checks for custom meta "
+"keys: <code>dsa_mobile_phone</code>, <code>dsa_street</code>, and "
+"<code>dsa_town</code>. Click 'Edit' to go to the student's profile page."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:322
+msgid "No students found with the 'subscriber' or 'student' role."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:325 ../admin/dsa-admin-page.php:369
+#: ../admin/dsa-admin-page.php:407
+msgid "Paired Couples"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:328
+msgid "Couple (Full Names)"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:329
+msgid "Joined as Couple"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:330 ../admin/dsa-admin-page.php:240
+msgid "Wedding Date"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:346
+msgid "Unpair this couple?"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:350
+msgid "No couples are currently paired."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:352
+msgid "No users are currently paired."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:355 ../admin/dsa-admin-page.php:371
+msgid "Manage Teachers"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:356
+msgid "Add New Teacher"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:357
+msgid ""
+"When adding a new teacher, remember to assign them the 'Teacher' role. "
+"Custom fields like Birthday, Phone, Address can be edited on their profile "
+"page."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:362
+msgid "No users found with the 'Teacher' role."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:365 ../admin/dsa-admin-page.php:373
+msgid "Manage Practice Sessions"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:367
+msgid "Add New Practice Session"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:371
+msgid "Practice Label/ID:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:371
+msgid "e.g., Practice #1, Advanced Salsa W5"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:374 ../admin/dsa-private-lesson-meta.php:46
+msgid "Start Time:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:377
+msgid "End Time:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:380
+msgid "Name of Group:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:383
+msgid "Dance Style of Group:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:386
+msgid "Add Practice Session"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:390
+msgid "Upcoming/Saved Practices:"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:391 ../admin/dsa-admin-page.php:433
+msgid ""
+"Saved practice sessions will be listed here once the data storage and "
+"display functionality is implemented."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:394 ../admin/dsa-admin-page.php:375
+msgid "Manage Private Lessons"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:396
+msgid ""
+"This section will allow you to record and manage private lessons for "
+"students or couples."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:397
+msgid ""
+"Similar to practices, we will need to define the details for a private "
+"lesson (e.g., student/couple, teacher, date, time, topic, notes), set up "
+"storage (likely a Custom Post Type), and then build the interface here."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:403
+msgid "Studio Calendar"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:404
+msgid "Overview of all practices, private lessons, and birthdays."
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:406 ../dancestudio-app.php:127
+msgid "Group Practice"
+msgstr ""
+
+#: ../admin/dsa-admin-page.php:406 ../dancestudio-app.php:128
+msgid "Private Lesson"
+msgstr "Individualni sat"
+
+#: ../admin/dsa-admin-page.php:412
+msgid "Save Settings"
+msgstr ""
+
+#: ../admin/dsa-admin-handlers.php:173
+msgid "Handler for adding group practices not yet implemented. Go back"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:26
+msgid "Lesson Details"
+msgstr "Detalji poduke"
+
+#: ../admin/dsa-private-lesson-meta.php:42 ../admin/dsa-admin-page.php:374
+msgid "Lesson Date:"
+msgstr "Datum poduke:"
+
+#: ../admin/dsa-private-lesson-meta.php:50
+msgid "Lesson Duration:"
+msgstr "Trajanje poduke:"
+
+#: ../admin/dsa-private-lesson-meta.php:50
+msgid "45 minutes (End time will be calculated automatically)"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:54 ../admin/dsa-admin-page.php:414
+msgid "Teacher:"
+msgstr "Učitelj:"
+
+#: ../admin/dsa-private-lesson-meta.php:63 ../admin/dsa-admin-page.php:414
+msgid "-- Select Teacher --"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:64
+msgid "Select the teacher conducting the lesson."
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:68
+msgid "Student 1 (or First Student in Couple):"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:77 ../admin/dsa-admin-page.php:414
+msgid "-- Select Student --"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:81
+msgid "Student 2 (if Couple):"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:90
+msgid "-- None (Single Student Lesson) --"
+msgstr ""
+
+#: ../admin/dsa-private-lesson-meta.php:94
+msgid ""
+"The \"Name of the lesson\" can be entered in the main Title field above. Use "
+"the main content editor below for detailed notes or topics covered."
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:22
+msgid "Dance Studio Information"
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:28
+msgid "Please enter the student's date of birth (YYYY-MM-DD)."
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:32
+msgid "Assign to Dance Groups"
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:47
+msgid "No dance groups have been created yet."
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:47
+msgid "Add a Group"
+msgstr ""
+
+#: ../admin/dsa-user-profile-fields.php:51
+msgid "Select the dance group(s) this user belongs to."
+msgstr ""
+
+#: ../admin/dsa-user-table-columns.php:25
+#: ../admin/dsa-user-table-columns.php:29
+msgid "Dance Group(s)"
+msgstr "Plesna grupa/e"
+
+#: ../dancestudio-app.php:127
+msgid "Student"
+msgstr "Učenik"
+
+#: ../dancestudio-app.php:128
+msgid "Guardian"
+msgstr "Štičenik"
+
+#: ../dancestudio-app.php:135
+msgid "Teacher"
+msgstr "Učitelj"
+
+#: ../dancestudio-app.php:146
+msgid "Studio Manager"
+msgstr "Upravitelj studija"
+
+#: ../includes/dsa-post-types.php:29
+msgid "Practices"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:30
+msgid "Practice"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:33
+msgid "All Practices"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:34
+msgid "Add New Practice"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:35
+msgid "Add New"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:115
+msgid "No groups found"
+msgstr ""
+
+#: ../includes/dsa-post-types.php:116
+msgid "No groups found in Trash"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:25
+msgid "Please <a href=\"%s\">log in</a> to view your Dance Studio development."
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:32
+msgid "Hello, %s!"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:38
+msgid "You are currently paired with: %s"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:44
+msgid "Welcome to your Dance Studio development tracker."
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:48
+msgid "Your Information"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:50 ../admin/dsa-admin-page.php:240
+msgid "Name:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:62
+msgid "Partner's Information"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:73
+msgid "Your/Couple's Wedding Details"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:80
+msgid "Your wedding details have been updated!"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:86
+msgid ""
+"You can enter or update your wedding details below. These details are "
+"associated with your profile."
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:89
+msgid "Our Wedding Date:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:94
+msgid "Our First Dance Song:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:99
+msgid "Save My Wedding Details"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:104
+msgid "Partner's Recorded Wedding Details:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:106 ../admin/dsa-admin-page.php:241
+msgid "Wedding Date:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:107
+msgid "First Dance Song:"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:111
+msgid "Figures We've Learned"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:112
+msgid ""
+"This section will show all the cool dance figures you've mastered! (Managed "
+"by your instructor)"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:115
+msgid "Your Lesson History"
+msgstr ""
+
+#: ../public/dsa-shortcodes.php:116
+msgid ""
+"Here you'll find a list of your past lessons, including dates and teachers. "
+"(Managed by your instructor)"
+msgstr ""
